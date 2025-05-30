@@ -1,0 +1,34 @@
+{
+  "usuarios": {
+    "gui": {
+      "hash_senha": "d74c216d2abf4b364d40b55115a68120b7e304b4633373a36989df496f44f4b8",
+      "transacoes": [
+        {
+          "id": "9d900c48-9c1d-450f-b670-ab1878d57c53",
+          "tipo": "Receita",
+          "valor": 500.0,
+          "data": "28/05/2025",
+          "descricao": "pagamento",
+          "origem": "s\u00e1lario"
+        },
+        {
+          "id": "fe2b2a5b-b833-4002-a907-e8d0fc818b10",
+          "tipo": "Despesa",
+          "valor": 50.0,
+          "data": "29/05/2025",
+          "descricao": "mercado",
+          "categoria": "gasto mensal"
+        },
+        {
+          "id": "9dfe1cba-a481-4334-9cd2-d3373efab43e",
+          "tipo": "Receita",
+          "valor": 150.0,
+          "data": "29/05/2025",
+          "descricao": "bet",
+          "origem": ""
+        }
+      ]
+    }
+  },
+  "usuario_logado": "gui"
+}
