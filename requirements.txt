@@ -1,0 +1,3 @@
+# Bibliotecas de terceiros com versões fixadas
+matplotlib==3.10.3
+Pillow==11.2.1
